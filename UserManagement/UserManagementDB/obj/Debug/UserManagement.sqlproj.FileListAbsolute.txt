@@ -1,0 +1,9 @@
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\bin\Debug\UserManagement.dacpac
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\Model.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\refactor.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\postdeploy.sql
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\predeploy.sql
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
